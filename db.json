@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kamal Bhatt",
+      "email": "kb@example.com",
+      "password": "123431"
+    },
+    {
+      "id": 2,
+      "name": "Kamlesh Bhatt",
+      "email": "k@example.com",
+      "password": "K@123"
+    },
+    {
+      "name": "Kamlesh Bhatt",
+      "email": "kamleshbhatt3103@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "email": "kamleshbhatt3103@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ]
+}

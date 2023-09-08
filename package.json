@@ -1,0 +1,26 @@
+{
+  "name": "projectabc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamlesh-Bhatt-52625/projectABC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamlesh-Bhatt-52625/projectABC/issues"
+  },
+  "homepage": "https://github.com/Kamlesh-Bhatt-52625/projectABC#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
